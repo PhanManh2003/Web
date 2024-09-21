@@ -1,0 +1,25 @@
+section 15 PHP
+1- Xây dựng giao diện html trang thêm bài viết
+2- Cấu hình plugin ckeditor-ckfinder
+3- Xây dựng validation upload file và xuất dữ liệu form đã được chuẩn hóa sau khi submit
+	vẫn là thuật toán phất cờ - hạ cờ - kết luận
+	+ lỗi empty
+	+ lỗi file
+	
+
+- thời gian đếm ngược của set  
+- thời gian tăng của time
+
+
+
+section 16 PHP
+#1. Xây dựng database ứng dụng
+#2. Xây dựng giao diện css :
+	- trang login
+	- trang index
+#3. Chuẩn hóa dữ liệu form login
+#4. Xử lí login vơi SESSION
+#5. Xử lí logout 
+#6. Hiển thị thông tin đăng nhập: Xin chào [Phan Tien Manh] ở header
+#7. Xử lý khi người dùng cố tính vào hệ thống khi chưa login
+
