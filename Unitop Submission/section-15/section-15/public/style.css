@@ -1,0 +1,74 @@
+/*pages login*/
+input[type='text']{
+    display: block;
+    margin: 5px 0px;
+    padding: 5px;
+    outline: none;
+    border: 1px solid black;
+
+}
+input[type='text']:focus{
+    border: 1px solid aqua;
+}
+input[type='file']{
+    margin: 10px 0px;
+}
+label {
+    display: block;
+    margin: 10px 0px;
+}
+input#btn_post{
+    margin: 10px 0px;
+    padding: 5px;
+    outline: none;
+    border: 1px solid black;
+}
+#wrapper{
+    max-width: 960px;
+    margin: 0 auto;
+}
+#content{
+    /*text-align: center;*/
+}
+/*form error*/
+p.error{
+    font-style: italic;
+    color: red;
+    font-size: 12px;
+    padding-left: 3px
+}
+/*index*/
+*{
+    padding: 0;
+    margin: 0;
+}
+#header,#footer{
+    background: aqua;
+    text-align: center;
+}
+#menu {
+    display: flex;
+    justify-content: space-between;
+}
+#content{
+    min-height: 100px;
+}
+ul {
+    list-style: none;
+    text-align: center;
+    margin-left: 50px;
+}
+ul li.item {
+    display: inline-block;
+
+}
+ul li.item a{
+    padding: 10px 15px;
+    display: block;
+    color: white;
+}
+
+img {
+    height: 100px;
+    width: auto;
+}

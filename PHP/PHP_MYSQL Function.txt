@@ -1,0 +1,9 @@
+1. mysqli_query() thực hiện 1 truy vấn sql và trả về 
+2. mysqli_num_rows() lấy số lượng record mà mysqli_query() trả về
+3. mysqli_fetch_assoc() lấy 1 record từ dữ liệu trả về của mysqli_query()
+4. mysqli_connect()
+5. mysqli_connect_error()
+6. mysqli_free_result()
+7. mysqli_insert_id() được sử dụng để lấy ra ID được sinh tự động từ câu lệnh INSERT mới nhất mà bạn đã thực thi trước đó. 
+8. mysqli_real_escape_string() được sử dụng để làm sạch chuỗi trước khi chèn vào câu lệnh SQL, nhằm ngăn chặn các cuộc tấn công SQL Injection
+9. mysqli_affected_rows() được sử dụng để lấy số lượng hàng ảnh hưởng bởi câu lệnh INSERT, UPDATE hoặc DELETE mà bạn đã thực thi trước đó thông qua kết nối cơ sở dữ liệu.
